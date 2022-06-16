@@ -7,5 +7,5 @@ def is_divisible_by_6(number):
     else:
         return f'Число {number} неделимо на 6'
 
-print(is_divisible_by_6(6))
+print(is_divisible_by_6(-6))
 print(is_divisible_by_6(31))
